@@ -1,5 +1,7 @@
 # 🎬 Cinematch: Movie Recommender System
 
+**Live Demo:** [https://movielens-based-recommender.streamlit.app/](https://movielens-based-recommender.streamlit.app/)
+
 Cinematch is a high-performance, multi-model movie recommendation engine built using the **MovieLens 100k** dataset. It demonstrates various collaborative filtering techniques, matrix factorization (SVD), and a premium Streamlit web interface for interactive discovery.
 
 ---
